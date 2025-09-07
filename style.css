@@ -1,0 +1,63 @@
+@keyframes logo_animation {
+    0% {
+        width: 40%;
+    }
+    50% {
+        width: 25%;
+    }
+    100% {
+        width: 40%;
+    }
+}
+
+#logo_parallax {
+    animation: logo_animation 1s linear infinite;
+}
+
+.parallax {
+    /* Set a specific height */
+    min-height: 700px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parallax1 {
+    background-image: url("static/working.jpg");
+}
+
+#parallax2 {
+    background-image: url("static/team_smile.jpg");
+}
+
+#parallax3 {
+    background-image: url("static/IMG_20250118_121810_970.jpg");
+}
+
+#parallax4 {
+    background-image: url("static/IMG_20250118_082536_884.jpg");
+}
+
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+
+body, html {
+    height: 100%;
+}
+
+.parallax_content {
+    background: #660460;
+    background: linear-gradient(124deg, rgba(102, 4, 96, 1) 0%, rgba(64, 64, 64, 1) 100%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
