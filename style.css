@@ -1,20 +1,35 @@
 @keyframes logo_animation {
     0% {
-        width: 25%;
+        width: 15%;
     }
     25% {
-        width: 40%;
+        width: 20%;
     }
     50% {
-        width: 25%;
+        width: 15%;
     }
     100% {
-        width: 25%;
+        width: 15%;
     }
+}
+
+.body_centerer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body_container {
+    display: inline;
+    position: relative;
+    height: 1000px;
 }
 
 #logo_parallax {
     animation: logo_animation 1s linear infinite;
+    position: absolute;
+    right: 180px;
+    bottom: 700px;
 }
 
 .parallax {

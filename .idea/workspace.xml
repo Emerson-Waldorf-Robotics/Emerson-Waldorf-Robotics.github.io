@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5a9ec065-31d2-4071-8022-6ce7248b7004" name="Changes" comment="Update README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <updated>1757197986078</updated>
       <workItem from="1757197987481" duration="7238000" />
       <workItem from="1757260411323" duration="257000" />
-      <workItem from="1757334673706" duration="177000" />
+      <workItem from="1757334673706" duration="2254000" />
     </task>
     <task id="LOCAL-00001" summary="Update README">
       <option name="closed" value="true" />
