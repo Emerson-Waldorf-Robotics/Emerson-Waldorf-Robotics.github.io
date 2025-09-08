@@ -1,12 +1,15 @@
 @keyframes logo_animation {
     0% {
+        width: 25%;
+    }
+    25% {
         width: 40%;
     }
     50% {
         width: 25%;
     }
     100% {
-        width: 40%;
+        width: 25%;
     }
 }
 
