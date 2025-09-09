@@ -51,9 +51,9 @@ async function fill_data() {
         let qstat = document.createElement("h3");
         qstat.innerHTML = `For ${key}, we are the ${quick_stats[value]["rank"]}th best team in the world. `;
         if (quick_stats_last[value]["rank"] < quick_stats[value]["rank"]) {
-            qstat.innerHTML += `Which is slightly worse by ${quick_stats[value]["rank"] - quick_stats_last[value]["rank"]} positions from last year :(. (Last year we were ${quick_stats_last[value]["rank"]}th)`;
+            qstat.innerHTML += `Which is slightly worse by ${quick_stats[value]["rank"] - quick_stats_last[value]["rank"]} positions from last year 🙁. (Last year we were ${quick_stats_last[value]["rank"]}th)`;
         } else if (quick_stats_last[value]["rank"] > quick_stats[value]["rank"]) {
-            qstat.innerHTML += `Which is an improvement of ${quick_stats_last[value]["rank"] - quick_stats[value]["rank"]} positions from last year!! (Last year we were ${quick_stats_last[value]["rank"]}th)`;
+            qstat.innerHTML += `Which is an improvement of ${quick_stats_last[value]["rank"] - quick_stats[value]["rank"]} positions from last year!! 🙂 (Last year we were ${quick_stats_last[value]["rank"]}th)`;
         } else {
             qstat.innerHTML += "Which is exactly the same as last year."
         }
@@ -67,9 +67,9 @@ async function fill_data() {
         let qstat = document.createElement("h3");
         qstat.innerHTML = `In general, we are the ${quick_stats[value]["rank"]}th best team in the world. `;
         if (quick_stats_last[value]["rank"] < quick_stats[value]["rank"]) {
-            qstat.innerHTML += `Which is slightly worse by ${quick_stats[value]["rank"] - quick_stats_last[value]["rank"]} positions from last year :(. (Last year we were ${quick_stats_last[value]["rank"]}th)`;
+            qstat.innerHTML += `Which is slightly worse by ${quick_stats[value]["rank"] - quick_stats_last[value]["rank"]} positions from last year 🙁. (Last year we were ${quick_stats_last[value]["rank"]}th)`;
         } else if (quick_stats_last[value]["rank"] > quick_stats[value]["rank"]) {
-            qstat.innerHTML += `Which is an improvement of ${quick_stats_last[value]["rank"] - quick_stats[value]["rank"]} positions from last year!! (Last year we were ${quick_stats_last[value]["rank"]}th)`;
+            qstat.innerHTML += `Which is an improvement of ${quick_stats_last[value]["rank"] - quick_stats[value]["rank"]} positions from last year!! 🙂 (Last year we were ${quick_stats_last[value]["rank"]}th)`;
         } else {
             qstat.innerHTML += "Which is exactly the same as last year.";
         }
