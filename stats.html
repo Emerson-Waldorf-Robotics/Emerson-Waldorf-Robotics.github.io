@@ -1,0 +1,43 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FTC 19971 Statistics</title>
+    <script src="/scripts/stats.js" defer></script>
+</head>
+<body>
+
+{% include navbar.html %}
+
+<div id="loadinfo">
+    <h1>Please wait...</h1>
+    <br>
+    <h1>Statistics are loading<span id="loadanim"></span></h1>
+    <script defer>
+        let loading = document.getElementById("loadanim");
+        console.log(loading);
+        let load_progress = 0;
+        window.loader = setInterval(()=>{
+            switch (load_progress) {
+                case 0:
+                    loading.innerHTML = ""
+                    break;
+                case 1:
+                    loading.innerHTML = "."
+                    break;
+                case 2:
+                    loading.innerHTML = ".."
+                    break;
+                case 3:
+                    loading.innerHTML = "..."
+                    break;
+            }
+            load_progress++;
+            load_progress %= 4;
+        }, 400)
+    </script>
+</div>
+</body>
+</html>
