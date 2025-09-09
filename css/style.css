@@ -44,19 +44,19 @@
 }
 
 #parallax1 {
-    background-image: url("static/working.jpg");
+    background-image: url("../static/working.jpg");
 }
 
 #parallax2 {
-    background-image: url("static/team_smile.jpg");
+    background-image: url("../static/team_smile.jpg");
 }
 
 #parallax3 {
-    background-image: url("static/IMG_20250118_121810_970.jpg");
+    background-image: url("../static/IMG_20250118_121810_970.jpg");
 }
 
 #parallax4 {
-    background-image: url("static/IMG_20250118_082536_884.jpg");
+    background-image: url("../static/IMG_20250118_082536_884.jpg");
 }
 
 /* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
@@ -79,4 +79,18 @@ body, html {
     flex-direction: column;
     text-align: center;
     color: white;
+}
+
+.parallax_content > h1 {
+    font-size: 28pt;
+}
+
+.parallax_content > h3 {
+    font-size: 18pt;
+    margin: 10px 10% 40px;
+    padding: 10px 5px;
+    border-color: rgba(183, 149, 123, 1);
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
 }
