@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9ec065-31d2-4071-8022-6ce7248b7004" name="Changes" comment="Update README">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/articles/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/js/scale.fix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/IMG_20250118_082536_884.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/IMG_20250118_121757_301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/IMG_20250118_121810_970.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/human_outline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/team.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/team_smile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/static/working.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +85,7 @@
       <workItem from="1757334673706" duration="2306000" />
       <workItem from="1757347014657" duration="5861000" />
       <workItem from="1757427042144" duration="5763000" />
-      <workItem from="1757448460486" duration="559000" />
+      <workItem from="1757448460486" duration="1221000" />
     </task>
     <task id="LOCAL-00001" summary="Update README">
       <option name="closed" value="true" />
