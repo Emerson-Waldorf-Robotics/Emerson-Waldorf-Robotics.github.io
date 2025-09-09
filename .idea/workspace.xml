@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9ec065-31d2-4071-8022-6ce7248b7004" name="Changes" comment="Update README">
-      <change afterPath="$PROJECT_DIR$/scripts/stats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stats.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/stats.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <workItem from="1757334673706" duration="2306000" />
       <workItem from="1757347014657" duration="5861000" />
       <workItem from="1757427042144" duration="5763000" />
-      <workItem from="1757448460486" duration="7779000" />
+      <workItem from="1757448460486" duration="8552000" />
     </task>
     <task id="LOCAL-00001" summary="Update README">
       <option name="closed" value="true" />
