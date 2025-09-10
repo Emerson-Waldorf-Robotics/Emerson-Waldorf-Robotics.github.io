@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+body.dark {
+    background: black;
+}
+
 @keyframes logo_animation {
     0% {
         width: 15%;
@@ -83,6 +89,7 @@ body, html {
 
 .parallax_content > h1 {
     font-size: 28pt;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 
 .parallax_content > h3 {

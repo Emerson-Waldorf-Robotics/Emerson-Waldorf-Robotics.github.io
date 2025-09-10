@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9ec065-31d2-4071-8022-6ce7248b7004" name="Changes" comment="Update README">
+      <change afterPath="$PROJECT_DIR$/_includes/body-custom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mainpage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/otherpages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/darkmode.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/raw.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/raw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/stats.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -84,7 +94,8 @@
       <workItem from="1757334673706" duration="2306000" />
       <workItem from="1757347014657" duration="5861000" />
       <workItem from="1757427042144" duration="5763000" />
-      <workItem from="1757448460486" duration="10191000" />
+      <workItem from="1757448460486" duration="11354000" />
+      <workItem from="1757509528313" duration="6012000" />
     </task>
     <task id="LOCAL-00001" summary="Update README">
       <option name="closed" value="true" />

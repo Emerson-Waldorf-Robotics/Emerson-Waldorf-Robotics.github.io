@@ -1,0 +1,15 @@
+body.dark h1 {
+    color: white;
+}
+
+body.dark h2 {
+    color: white;
+}
+
+body.dark h3 {
+    color: white;
+}
+
+body.dark {
+    background: black;
+}

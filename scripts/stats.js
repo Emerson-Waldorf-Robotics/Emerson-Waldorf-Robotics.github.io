@@ -18,7 +18,7 @@ function getEnding(num) {
     }
 }
 
-
+// Retrieve the stats from ftcscout.org
 let FTC_TEAM_NUMBER = 19971;
 let BASE_API = "https://api.ftcscout.org/rest/v1";
 let API = `${BASE_API}/teams/${FTC_TEAM_NUMBER}`
@@ -96,7 +96,19 @@ async function fill_data() {
         li.append(awstat);
         awardlist.append(li);
     }
-    toappend.push(awardlist)
+    toappend.push(awardlist);
+
+
+    let end = document.createElement("h2");
+    end.innerHTML = "For more info on our team, head ";
+    let end2 = document.createElement("a");
+    end2.innerHTML = "here";
+    end2.href = "https://ftcscout.org/teams/19971";
+    // We would never want to send them away from our amazing website
+    end2.target = "_blank";
+    end.append(end2);
+    toappend.push(end);
+
 
     doneloading();
 
